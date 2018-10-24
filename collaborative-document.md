@@ -30,6 +30,7 @@
 - Yiwen Xu
 - Baiyun Yuan
 - Naixuan Wang
+- Zilin Zhang
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -441,3 +442,11 @@ The above graph is based on the data drawn from 2017 American Time Use Survey. I
 
     04 10 15
 
+![Zilin's graph showing people who help household members usually spend less time on helping non-household people than those who don’t](ZilinZ-plot.svg)
+
+This plot shows how participation in caring for and helping non-household people in the USA differs, depending on whether a person already undertakes caring for and helping household members. The data used for producing this graph is from the 2017 American Time Use Survey. This is a survey which records people’s activities on the previous day of the survey and how long their activities took.
+Overall, the graph shows that the people who help household members usually spend less time than people who don’t, on helping non-household people.
+
+Looking at females, the plot shows that between mid-20 years old and mid-70 years old, the females who help household members spend less time than people who don’t when it comes to helping non-household people. The amount of time females spend on helping non-household people increase by about 10% from 35 years old to 65 years old, then starts to decrease gradually. 
+
+For males’ participants, the graph shows that before 60 years old, the people who help household members spend less time on helping non-household people than people who don’t. However, after 60 years old, the shows that the people who help household people also spend more time on helping non-households. Then the time spend on helping both group decreases quite dramatically. 
