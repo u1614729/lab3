@@ -259,7 +259,7 @@ It should be noted that the data for seniors (over 80) is less reliable, due to 
 ### MAHIR
 
     04 06 16
-(MahirC-plot.svg)
+
     
     
 ### MARIIA
