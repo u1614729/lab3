@@ -30,6 +30,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Yiwen Xu
+- Sophie Kempston
 (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -358,6 +359,16 @@ For females however, the proportion does not change much over time, perhaps due 
 ### SOPHIE
 
     04 12 18
+    
+ ![Sophies's graph of Caring for non-household members across ages](SophieK-plot.svg)
+ 
+The plot shows the percentage of people who care for non-household members at each age. This includes those caring for non-household children and adults, those who spend time on activities related to children's health and education, and those who help household adults. This is then further split by sex.
+
+There is a clear increase in the percentage of respondents with these caring responsibilities in the "mid-life" stages, around 50-75 for both sexes. In most cases, females seem to care more than males; this difference is particularly substantial among those aged between 50 and 75 years old, although both sexes peak at arond 65 years. This could be due to the fact that men are typically expected to stay at work, with women typically expected to take on a more caring role. The peak at 65 years could reflect an aging population, with those who may have typically needed care in previous years now taking over the caring role.
+
+It is important to note that the standard deviations of both under-20s and over-80s are large, which means any conclusions made from these may be spurious and not entirely accurate.
+ 
+    
     
 ### TIMOTHY
 
