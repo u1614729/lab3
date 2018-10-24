@@ -28,6 +28,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Yiwen Xu
+-Jan Terlikowski
 (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -165,6 +166,12 @@ Of all reported hours caring for others within their home, across almost all age
 
     04 13 15
     
+    ![Jan's graph of Sports, exercise and recreation against month for different genders and age groups](Jan-plot.svg)
+    
+    The plot shows how the physical activity of men and women in USA differs throughout the year for different age categories. The whole population has been divided into 3 age categories, i.e. Elder (above 60 years), Middle Aged (between 30 and 60) and Young (from 15 to 29). The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The graph depicts the percentage of people belonging to given category who reported that they spent at least a while on sports, recreation or exercise.
+
+The graph shows a seasonal pattern. Both men and women exercise most often during the warm months - between May and September. This is probably because of the fact that most people prefer to do sports outside and summer is the right time for it. It can be also seen that activity is smaller in December than in January. The reason for it could be New Year's resolutions made by many people these days. The graphs also show that the activity is the biggest for youngest people, but for Middle Aged and Elderly it is similar - surprisingly even a bit higher for elderly people. It should be also mentioned that men are more active than women throughout the whole year and for all age categories. Only for Elder group, it can be seen that man are less active than women in the last 2 months of the year. However, this is probably caused by the small number of female respondents as the graph for this category is completely flat.
+
 ### JIA
 
     07 08 18
