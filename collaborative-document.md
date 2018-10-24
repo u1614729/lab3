@@ -212,7 +212,14 @@ It should be noted that there are more females who spent time on consumer purcha
 ### LANGLANG
 
     02 11 18
-    
+   
+![Langlang's graph of household activities vs age and sex](LANGLANG.png)
+
+The plot shows how participation in household activities in the USA is different at different ages and different gender. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day they were interviewed. The above graph shows the average time they spent on households activities per month at different age. 
+
+The graph shows that the average time per month participants spent on housework increased as they getting older and started decreasing since around 70 years old. We can also see that female spent more time on housework than male at every age. The difference between female and male increased around 20s and decreased slightly around their 50s.
+
+
 ### LEWEI
 
     01 06 08
