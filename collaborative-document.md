@@ -13,6 +13,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Luying Bai
 - Samuel Hine
 - David Hooton
+- Xingwei Huang
 - Chistopher Kakoullis
 - Sophie Kempston
 - Maciej Kopanski
@@ -408,6 +409,9 @@ It is important to note that the standard deviations of both under-20s and over-
 ### XINGWEI
 
     01 03 07
+![Xingwei Huang's graphs of relationship betwwen age with time spent on Personal Care, Caring and Helping Household and Consumer Purchases](XingweiHuang-plot.svg)
+
+The graphs show the relationships betwwen age of repondents with time spent in "Personal Care", "Caring for & helping household members" and "Consumer Purchases" respectively. The data is from the 2017 American Time Use Survey. It shows that generally, female spend more time in these three categories of activities than male do. Respondents of age 40-60 spend less time in personal care activities and spend more time in consumer purchases relative to respondents of other ages. In case of the time spent in "Caring for & Helping Household Members", it seems that only respondents of ages 20-60 engage in this catergory of activitiies. In addition, respondents of ages 30s seem to engage more than respondents of other ages.
     
 ### YIWEN
 
