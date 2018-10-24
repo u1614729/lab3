@@ -30,7 +30,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Yiwen Xu
-- Sophie Kempston
+- Sophie Kempston    
 (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
