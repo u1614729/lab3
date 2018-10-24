@@ -234,7 +234,7 @@ For women the usage also drops initially. Around 18% of females aged 15 spent an
 
 The shapes of the graphs for men and women are similar. However, the one for women shows bigger changes in phone usage at different ages. Moreover, the usage of phone calls is higher for women than it is for men in all age groups. This is an interesting finding, as it shows the difference in communication habits between sexes.
 
-It should be noted that the data for seniors (over 80) is less reliable, due to the small number of respondents and because of rounding recordings of ages in the ATUS data. Moreover, the sample for people aged 18 to 25 is also quite small (less than 100 people of each age) compared to people aged 35 to 40 (around 200 people of each age).
+It should be noted that the data for seniors (over 80) is less reliable, due to the small number of respondents and because of rounding of the recordings of ages in the ATUS data. Moreover, the sample for people aged 18 to 25 is also quite small (less than 100 people of each age) compared to people aged 35 to 40 (around 200 people of each age).
 
     
 ### MAHIR
