@@ -19,6 +19,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Reece Mears
 - Alexander Milanovic
 - Nathan Mullins
+- Nicole Ong
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
@@ -26,6 +27,8 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Yiwen Xu
+(next name to be added here)
+
 (add your name to the above list when you have contributed your file)
 
 ## The contributions
@@ -268,6 +271,15 @@ The graph shows, that the participation percentage for each sex spending any tim
 ### NICOLE
 
     02 06 11
+   ![Nicole's graph of time spent eating and drinking vs age](NicoleO-plot.png) 
+   
+The above plot illustrates the percentage of time a person in the US spends eating and drinking during any given day in a certain month. There are two curves plotted, one for each gender, to highlight any potential gender differences. Data used here is taken from the 2017 American Time Use Survey. 
+
+In general, we can see that across most months and the majority of ages, men spend more time eating and drinking than women. Additionally, the curves seem to illustrate an upward trend, indicating that older people typically spend more time eating and drinking. However, there are a few outliers to the preceding observation, with curves in March (03 on graph) and August (08) exhibiting odd behaviour amongst the 40 to 80 age group. 
+
+It should be noted that at the tail end of the curves, that is especially for ages 80 and above, the curve occasionally moves upwards in a volatile manner. This is likely partially due to rounding effects, whereby higher ages have been rounded to either 80 or 85 in the original dataset. 
+
+Interestingly, the probable correlation between time spent eating and drinking with the age of the respondent is not consistent across the different months, suggesting an element of randomness and potential seasonal effects such as holidays and cultural traditions that influence eating patterns. Thus, it is not possible to conclude with confidence whether or not there is a clear relationship between time spent eating and drinking with the age of the survey respondent. However, the observation that men spend more time eating and drinking than women appears fairly consistent across the different months.
     
 ### NIRAJ
 
