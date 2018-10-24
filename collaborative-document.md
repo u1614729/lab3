@@ -23,6 +23,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
+- Nicole Ong
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
