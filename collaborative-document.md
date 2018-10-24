@@ -16,6 +16,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Minwoo Kwon (Simon)
 - Jia Le Lian
 - Richard Mason
+- Michael McHale
 - Reece Mears
 - Alexander Milanovic
 - Nathan Mullins
@@ -219,7 +220,17 @@ In conclusion, for most of the ages, female participants spend more time on volu
 ### MICHAEL
 
     04 10 12
-    
+  
+![Michael's plot](MichaelM-plot.svg)
+
+This graph shows how the change of age effects whether a person partkaes in 'Caring or helping a non-household person' in the USA, and how this differs between males and females.The data used to produce this graphic is from the 2017 _American Time Use Survey_, in which respondents were asked to record which activities they had undertaken the previous day, and for how long.
+
+We can observe that up until they are 38 years old men and women, are equally likley to spend anytime at all caring or helping a non household person. Further to this in this time period, the proportion of people who spend anytime at all caring or helping a non household person has a slow anual decline. This may be because at this time in their lives they are concentrating on careers and their parents (whom one can asume are the most likely non household person they would be caring for) are still relatively young and not dependent on their children, and also that they are looking after their own children who are part of their household.
+
+After this point both males and females have an increase in the likelihood of spending anytime at all caring or helping a non household person, but females increase by a much greater rate. This may be down to the fact that less females are working at this age (possibly due to childbirths), so are able to devote time to caring for a non household person.
+
+The likelihood of either males and females spending anytime at all caring or helping a non household person, decreases at about 67 (close to the retirement age). This could be due to the fact that they are physcially unable to as they themselves reach old age, or also the fact that those whose job it was to care for non household people are also retiring at this age.
+
 ### MINWOO
 
     04 08 12
