@@ -1,3 +1,4 @@
+
 ---
 title: "ST344 Lab 3: A collaborative document"
 ---
@@ -14,16 +15,20 @@ title: "ST344 Lab 3: A collaborative document"
 - David Hooton
 - Minwoo Kwon (Simon)
 - Jia Le Lian
+- Richard Mason
+- Michael McHale
 - Reece Mears
 - Alexander Milanovic
 - Nathan Mullins
+- Nicole Ong
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
-- Michael McHale
+- Yiwen Xu
+(next name to be added here)
 
 (add your name to the above list when you have contributed your file)
 
@@ -277,6 +282,15 @@ The graph shows, that the participation percentage for each sex spending any tim
 ### NICOLE
 
     02 06 11
+   ![Nicole's graph of time spent eating and drinking vs age](NicoleO-plot.png) 
+   
+The above plot illustrates the percentage of time a person in the US spends eating and drinking during any given day in a certain month. There are two curves plotted, one for each gender, to highlight any potential gender differences. Data used here is taken from the 2017 American Time Use Survey. 
+
+In general, we can see that across most months and the majority of ages, men spend more time eating and drinking than women. Additionally, the curves seem to illustrate an upward trend, indicating that older people typically spend more time eating and drinking. However, there are a few outliers to the preceding observation, with curves in March (03 on graph) and August (08) exhibiting odd behaviour amongst the 40 to 80 age group. 
+
+It should be noted that at the tail end of the curves, that is especially for ages 80 and above, the curve occasionally moves upwards in a volatile manner. This is likely partially due to rounding effects, whereby higher ages have been rounded to either 80 or 85 in the original dataset. 
+
+Interestingly, the probable correlation between time spent eating and drinking with the age of the respondent is not consistent across the different months, suggesting an element of randomness and potential seasonal effects such as holidays and cultural traditions that influence eating patterns. Thus, it is not possible to conclude with confidence whether or not there is a clear relationship between time spent eating and drinking with the age of the survey respondent. However, the observation that men spend more time eating and drinking than women appears fairly consistent across the different months.
     
 ### NIRAJ
 
@@ -301,6 +315,13 @@ From the graph, we can see a global trend of people being less likely to spend a
 ### RICHARD
 
     04 11 12
+
+![Richard's Graph of Socializing, Relaxing and Leisure vs Age](RichardM-plot.svg)
+
+The graph depicts the relationship between the age of the survey participant and the average time spent on relaxing, socializing and leisure, which is divided into male and female.
+The graph shows a contrasting relationship between men and women before the age of 20. However, the standard errors are larger for ages below 20, so these average values may not be correct. Furthermore, the sample for these ages may have been taken from people who are in work, and not students, who would have a higher average time for socializing especially. The graph's minimum points are at age 32 for women and 37 for men. One can deduce that these ages for men and women spent the least amount of time on socializing, relaxing and leisure because this could be the age when people decide to start a family, as well as be the busiest with work, with both of these reducing the amount of time a person can spend socializing, relaxing and time on leisure. There is an upward global trend after this, perhaps suggesting that the children of some participants are older and require less time to tend to.
+
+We can observe that men seem to spend more time on these activities than women on average, for the majority of the ages, which has many interpretations, although we cannot draw conclusions.
     
 ### SAMUEL
 
@@ -335,7 +356,12 @@ For females however, the proportion does not change much over time, perhaps due 
 ### YIWEN
 
     02 10 14
-    
+
+![](Yiwen-plot.svg)
+
+The above graph is based on the data drawn from 2017 American Time Use Survey. It compares the time spent of individual on household activities per day between females and males for the age ranges from around 15 to 85. First of all, the gap between two lines shows that in general, women do more housework than men at each range of age. Besides, the sexual difference is relatively narrow for people who are under 25, since most people are still students at that age range (15-25). With the growth of age, people tend to spend more time on housework. There is a decreasing trend from 70, which might be due to some physical reasons. Lastly, since majority participants are from 20 to 60, more data will be needed to get the conclusion of people who are under 20 and over 70.
+
+
 ### YUE
 
     03 12 18
