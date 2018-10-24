@@ -30,6 +30,7 @@
 - Yiwen Xu
 - Baiyun Yuan
 - Naixuan Wang
+- Lewei He
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -223,6 +224,13 @@ The graph shows that the average time per month participants spent on housework 
 ### LEWEI
 
     01 06 08
+
+![Lewei's graph of education vs month and sex]LeweiH-plot.svg)
+
+This plot shows how participation in education in the USA is different at different months between male and female. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The above graph shows the percentage of respondents, between the two sex, who reported that they had spent any time at all in education on the day in question for each month.
+
+The graph shows how such participation varies on a monthly basis, that fewer people engage in education over summer and winter vacations (in June, July, August, and December). Also, in distinguishment of male and female, female engage more than male during "Autumn term" and male engage more for the rest of the year. It should be noted that the respondents displayed this plot is only a small proportion of the whole set of respondents as the first quantile is at age 35 while this plot only uses data for age under 30 as generally, they engage more in education.
+
     
 ### LUYING
 
