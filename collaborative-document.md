@@ -161,9 +161,12 @@ It is also worth noting that there is limited data on participants under the age
 
     06 11 16
     
-![Fan's graph of religious participation vs age](Fan-plot.svg)    
+![Fan's graph of religious participation vs age](Fan-plot.svg)     
     
-The diagram shows the total time people spent on calling each day in US, based on data from the 2017 American Time Use Survey. The general trend for both male and female is that the time has an over 50% decreasing from the initial level (8-11 min) to the bottom (4-5 min) until they becoming around 40 years old, which may be because of the stress from studying and working. Then there is an upward trend till the end of the model since their working pressure is probably less than they used to have, so they can have more time to communicate with their friends. 
+The diagram shows the total time people spent on calling each day in US, based on data from the 2017 American Time Use Survey. 
+
+The general trend for both male and female is that the time has an over 50% decreasing from the initial level (8-11 min) to the bottom (4-5 min) until they becoming around 40 years old, which may be because of the stress from studying and working. Then there is an upward trend till the end of the model since their working pressure is probably less than they used to have, so they can have more time to communicate with their friends. 
+
 But if we view the men and women separately, we can notice that females always make more phone call than males, especially after 40, which is consistent with the impression in our mind. And finally the time level will reach the peak point of the diagram, which is over 13 minutes. Besides that, we can notice that the time men spent on calling is quite stable after 40 years old, the time level floats around 4 minutes.    
     
 ### HARRISON
