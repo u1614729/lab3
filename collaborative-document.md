@@ -25,11 +25,12 @@ title: "ST344 Lab 3: A collaborative document"
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
--Jan Terlikowski
+- Jan Terlikowski
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
 - Yiwen Xu
+- Maciej Kopanski
 (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -222,6 +223,19 @@ In conclusion, for most of the ages, female participants spend more time on volu
 ### MACIEJ
 
     12 16 18
+    
+![Maciej's graph of telephone calls vs age and sex](MaciejK-plot.svg)
+
+This plot shows how the usage of telephone calls in the USA is different at different ages for each sex. The above graph shows the percentage of respondents, at different ages, for each sex, who reported that they had spent any time at all on phone calls on the day in question.
+
+For men the usage of phone calls drops from the initial level (15 year old) of 13% to 8% for people aged 45. Then this number increases up to almost the initial level for men above 80 years old. 
+
+For women the usage also drops initially. Around 18% of females aged 15 spent any amount of time talking on the phone on that day. This number drops to 12% for women who are 35 years old. Then, as it was for men, the usage increases, but for women it even exceeds the initial level. For women aged 75 and above the phone calls usage is at 25%.
+
+The shapes of the graphs for men and women are similar. However, the one for women shows bigger changes in phone usage at different ages. Moreover, the usage of phone calls is higher for women than it is for men in all age groups. This is an interesting finding, as it shows the difference in communication habits between sexes.
+
+It should be noted that the data for seniors (over 80) is less reliable, due to the small number of respondents and because of rounding recordings of ages in the ATUS data. Moreover, the sample for people aged 18 to 25 is also quite small (less than 100 people of each age) compared to people aged 35 to 40 (around 200 people of each age).
+
     
 ### MAHIR
 
