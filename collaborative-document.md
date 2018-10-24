@@ -29,6 +29,7 @@
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
+- Naixuan Wang
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -287,6 +288,10 @@ The likelihood of either males and females spending anytime at all caring or hel
 ### NAIXUAN
 
     08 14 16
+    
+![Naixuan's graph of telephone calls vs age seperated by sex](NaixuanW-plot.svg)
+
+The data is drawn from the “2017 American Time Use Survey” data set. Through the exploration of the data set, an interesting correlation between column “age”, “sex” and “telephone calls” has been found. The chart is plotted as the percentage of time spent on “Telephone calls” against age of the respondents. The lines are defined by “sex” with males’ represented in blue and females’ in red. The percentage of females spending time on making phone calls is higher than the percentage of males through all ages. With an increase in age, females tend to spend more time on making phone calls as the red line rises dramatically from 13% to 25% after the age of 40 representing higher proportion of female population. The percentage of males does not fluctuate much through age.
     
 ### NATHAN
 
