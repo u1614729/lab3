@@ -40,7 +40,7 @@
 - Yiwen Xu
 - Baiyun Yuan
 - Fan Zhou
-- (next name to be added here)
+- Sandeep soorjonowa
 
 (add your name to the above list when you have contributed your file)
 
@@ -467,6 +467,12 @@ For females however, the proportion does not change much over time, perhaps due 
 ### SANDEEP
 
     02 04 15
+  ![Sandeep's graph showing volunteering activities across ages](SandeepS-plot.png)   
+    These plot shows on how, for each gender, the amount time of volunteering activities done by participants in the USA changes with age. The data from the graph is taken from the 2017 American Time Use Survey where participants were questioned on how long they spent doing different activities during the day before the interview. 
+
+   The graph above shows the relationship between the amount of time the participants spent doing volunteering activities measured in minutes to their age for each gender. The graph for female shows a decrease in time spent on volunteering activities from the early 20s to 30s where it starts to grow at a steady rate till early 70s where it peaks and then follows a downward trend. The graph for male starts with a downward trend till 30s where it picks back till mid 40s and then drops down again. However, it then increases drastically after early 60s and peaks around mid 70s where it then follows a steep downward trajectory. The similarity on both of these graphs are that they both show a downward trajectory after early 20s which may have been the results of the participants being in colleges thus having less time to do volunteering activities. Furthermore, both graphs also show an increase in volunteering activities after early 60s which may have been a result of the participants having more time on their hands due to retirement, which is about 66 years in the USA. 
+
+   On the other hand, the data collected for the ages between 0-20 and 80 and over maybe be unreliable due to the small amount of data collected for those age groups. 
     
 ### SOPHIE
 
