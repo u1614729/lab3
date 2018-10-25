@@ -6,6 +6,8 @@
 - Denis Akkavim
 - Danius Backis
 - Luying Bai
+- Mahir Choudhury
+- Lewei He
 - Samuel Hine
 - David Hooton
 - Xingwei Huang
@@ -26,11 +28,10 @@
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
+- Naixuan Wang
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Naixuan Wang
-- Mahir Choudhury
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -224,6 +225,13 @@ The graph shows that the average time per month participants spent on housework 
 ### LEWEI
 
     01 06 08
+
+![Lewei's graph of education vs month and sex]LeweiH-plot.svg)
+
+This plot shows how participation in education in the USA is different at different months between male and female. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The above graph shows the percentage of respondents, between the two sex, who reported that they had spent any time at all in education on the day in question for each month.
+
+The graph shows how such participation varies on a monthly basis, that fewer people engage in education over summer and winter vacations (in June, July, August, and December). Also, in distinguishment of male and female, female engage more than male during "Autumn term" and male engage more for the rest of the year. It should be noted that the respondents displayed this plot is only a small proportion of the whole set of respondents as the first quantile is at age 35 while this plot only uses data for age under 30 as generally, they engage more in education.
+
     
 ### LUYING
 
@@ -272,6 +280,17 @@ From here there's a continued increase for both genders up to 85, where the data
 ### MARIIA
 
     02 06 11
+
+![](Mariia-plot.svg)
+    
+The plot above shows how the time spent on household activities (e.g. laundry, cleaning, food preparation, etc) changes as the number of children in the household increases. The data used for constructing the plot is from the 2017 American Time Use Survey (ATUS), conducted by the Bureau of Labour Statistics. During the survey 10,223 people were interviewed on how much time they spent on certain activities (such as work and work-related activities, personal care, household activities, consumer purchases, volunteering, etc.) on the day before the interview.
+
+The graph above has the reported number of children under 18 in the household on the x-axis and the mean time spent on household activities per day (in minutes) on the y-axis. The respondents were split into two categories by sex (in colour).
+
+We observe that the mean time spent on household related activities (combined for both women and men) goes up as the number of children in the household increases. However, it is curious that for women this increase seems to be much more pronounced (going linearly from 140 minutes in the household with no kids to 212 in the households with 7 kids) than for men. 
+
+It should be noted that 2 datapoints were excluded from the plot (two respondents with 8 and 11 children respectively) as 1 datapoint is not enough to derive any conclusion about the whole group. Also note that the presented data for the households with the most children (more than 5) is less reliable due to the small number of observations (11 respondents with 6 children and 6 with 7 children). 
+
     
 ### MAXIM
 
@@ -446,6 +465,11 @@ The above graph is based on the data drawn from 2017 American Time Use Survey. I
 ### ZECHI
 
     01 04 07
+    
+![Zechi's graph of consumer purchases and 'shopping lovers' ](ZechiGan.png)
+
+This graph illustrates the number of hours spent on consumer purchases for every survey respondent from the age of 15 to 85. At first glance the points are separated by two colours, with the purple ones denoting respondents who spent a substantial amount of time doing shopping for the purposes outside of groceries, food or gas, who can be interpreted as the term 'shopping lovers'. By 'substantial' here it is defined by the mean time spent in this type of shopping activity(for people who spend any time doing this at all), averaging around 65 hours a month. The line intersecting y = 65 makes a distinctive separation between the top purple and the bottom blue regions, suggesting the fact that people who spend any substantial amount of time in making consumer purchases also spend a substantial amount of time in shopping for non-absolute necessities. This coincides with the modern habits of people shopping for leisure purposes and the popularity of shopping malls/centres. 
+    
     
 ### ZILIN
 
