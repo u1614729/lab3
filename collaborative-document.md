@@ -31,6 +31,7 @@
 - Neel Sachania
 - Niraj Shah
 - Benjamin Solly
+- Sandeep Soorjonowa
 - Maria Starovoitova
 - Jan Terlikowski
 - Daniel Timmers
@@ -40,9 +41,6 @@
 - Yiwen Xu
 - Baiyun Yuan
 - Fan Zhou
-- Sandeep soorjonowa
-
-(add your name to the above list when you have contributed your file)
 
 ## The contributions
 
