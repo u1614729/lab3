@@ -7,6 +7,7 @@
 - Danius Backis
 - Luying Bai
 - Mahir Choudhury
+- Timothy Coupe
 - Lewei He
 - Samuel Hine
 - David Hooton
@@ -449,6 +450,12 @@ It is important to note that the standard deviations of both under-20s and over-
 ### TIMOTHY
 
     06 09 11
+ ![Tim's graph of the link between age,sex and time spent eating and drinking](TimC-plot.svg)   
+The data used to generate the plot has come  from the American Time Use Survey. It was created  by the Bureau  of Statistics. The survey measures the amount of time people spend performing 17 different common activities. These include things such education, religious activities, eating and drinking and many others.
+
+The plot below shows on average how many minutes per day Males and Females spent eating and drinking. Females take more time to start with but take a sharp decline until the age of around 25. Meanwhile the males times rises sharply and becomes bigger than the females at around age 20. After the age of 25 the males and females times change is similar patterns with the males constantly spending more time then females. These similar patterns are such because both groups seem to plateau for a long period with slights ups and downs. For the women the eating and drinking times are with 62.5-65 minutes for approximately ages 35-60. For the males from the ages 40-60 there is no significant change with the average time being within 67.5-70 minutes for this whole period. 
+
+After the age of 60 both the times for males and females increase steadily until the 80. Males are take approximately 5 minutes longer then females to eat and drink for the whole period from 60-80.
     
 ### XI
 
