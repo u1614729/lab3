@@ -270,6 +270,17 @@ It should be noted that the data for seniors (over 80) is less reliable, due to 
 ### MARIIA
 
     02 06 11
+
+![](Mariia-plot.svg)
+    
+The plot above shows how the time spent on household activities (e.g. laundry, cleaning, food preparation, etc) changes as the number of children in the household increases. The data used for constructing the plot is from the 2017 American Time Use Survey (ATUS), conducted by the Bureau of Labour Statistics. During the survey 10,223 people were interviewed on how much time they spent on certain activities (such as work and work-related activities, personal care, household activities, consumer purchases, volunteering, etc.) on the day before the interview.
+
+The graph above has the reported number of children under 18 in the household on the x-axis and the mean time spent on household activities per day (in minutes) on the y-axis. The respondents were split into two categories by sex (in colour).
+
+We observe that the mean time spent on household related activities (combined for both women and men) goes up as the number of children in the household increases. However, it is curious that for women this increase seems to be much more pronounced (going linearly from 140 minutes in the household with no kids to 212 in the households with 7 kids) than for men. 
+
+It should be noted that 2 datapoints were excluded from the plot (two respondents with 8 and 11 children respectively) as 1 datapoint is not enough to derive any conclusion about the whole group. Also note that the presented data for the households with the most children (more than 5) is less reliable due to the small number of observations (11 respondents with 6 children and 6 with 7 children). 
+
     
 ### MAXIM
 
