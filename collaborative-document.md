@@ -3,10 +3,10 @@
 ## Authors
 
 - David Firth
-- Maxim Bolshakov
 - Denis Akkavim
 - Danius Backis
 - Luying Bai
+- Maxim Bolshakov
 - Mahir Choudhury
 - Timothy Coupe
 - Lewei He
