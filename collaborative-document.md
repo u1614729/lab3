@@ -264,7 +264,7 @@ The graph shows that the average time per month participants spent on housework 
 
     01 06 08
 
-![Lewei's graph of education vs month and sex]LeweiH-plot.svg)
+![Lewei's graph of education vs month and sex](LeweiH-plot.svg)
 
 This plot shows how participation in education in the USA is different at different months between male and female. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The above graph shows the percentage of respondents, between the two sex, who reported that they had spent any time at all in education on the day in question for each month.
 
