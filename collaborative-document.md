@@ -29,6 +29,7 @@
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
+- Maria Starovoitova
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
