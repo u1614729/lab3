@@ -474,10 +474,13 @@ After the age of 60 both the times for males and females increase steadily until
 ### XI
 
     03 05 06
-  ![Xi Lin's graphs of Time Spending on Education throughout the year at different age levels](SarahLin05-plot.png)
+  
+![Xi Lin's graphs of Time Spending on Education throughout the year at different age levels](SarahLin05-plot.png)
   
 The graph below has used the data from 2017 American time use survey, which presents the time spending on education throughout the year at different age levels.  
+
 It is quite obvious to notice that people in age 15, spend the maximum amount of time on education compared to the other populations. In addition, the time consumption indicates an incredible decreasing trend from their early age till their nearly 40's and becomes steady at around 0.2 hours per day. Moreover, when people reach their 80's, they bearly spend time on education.  
+
 There is a dramatic fluctuation of time spending on education throughout the year in young age groups. It's interesting to notices that probably is because of the changes in school term schedules, exam periods and also the holidays which leads to the difference of time spending on education as the majority of the people in their 20's are still in school or university studying. The difference of genders might also potentially suggest the different study pace and time contribution.
   
 ### XINGWEI
