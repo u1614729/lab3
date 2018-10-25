@@ -30,6 +30,7 @@
 - Yiwen Xu
 - Baiyun Yuan
 - Naixuan Wang
+- Zechi Gan
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
