@@ -6,6 +6,8 @@
 - Denis Akkavim
 - Danius Backis
 - Luying Bai
+- Mahir Choudhury
+- Lewei He
 - Samuel Hine
 - David Hooton
 - Xingwei Huang
@@ -26,11 +28,10 @@
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
+- Naixuan Wang
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Naixuan Wang
-- Lewei He
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -266,6 +267,15 @@ It should be noted that the data for seniors (over 80) is less reliable, due to 
 ### MAHIR
 
     04 06 16
+![Mahir's plot on time spent on telephone calls](MahirC-plot.svg)
+
+This graph shows how the time spent on telephone calls varies with age in the USA, using data from the '2017 American Time-Use survey', in which Survey Respondents were asked how much time had they spent across 17 particular activities during the particular day in which they were interviewed.  The line graphs display the expected value of time spent on telephone calls given the age in question. The shaded areas represent the 95% confidence interval for time spent on telephone calls given the age. The data has been split into gender categories and plotted accordingly.
+
+From the graph, it is clear that regardless of age that females on average spend a larger amount of time on telephone calls than males. Between the ages 15-40, we can see that the curves follow a relatively similar trend with the Female curve hovering above the male curve. Their confidence intervals largely overlapping whilst both steadily declining as the age gets closer to 40. Particularly, we can see around the age of 32 that the time is within a minute of each other- leading one to question whether this slight difference is simply variance in the data.  
+
+However, as we go beyond 40 we can observe a much steeper increase in these times for Females than the males. The times for Males pratically remains unchanged between 40-60 staying around the 4 minute mark, whilst by this stage for females, it has shot up to 10 minutes with the confidence intervals far apart. One might question why this may be the case - perhaps there are certain lifestyle changes to females ,which do not apply to males, which occur around the age of 40. An alternative could be changing times in the younger generation which could follow a pattern similar to the men as time progresses - who knows.
+
+From here there's a continued increase for both genders up to 85, where the data stops. It is important to note that there's larger confidence intervals for both genders most likely due to the fact that there's no data between ages 80-85. No confidence interval overlapping suggests this isn't a problem .
     
 ### MARIIA
 
