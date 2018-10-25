@@ -9,6 +9,7 @@
 - Maxim Bolshakov
 - Mahir Choudhury
 - Timothy Coupe
+- Zechi Gan
 - Lewei He
 - Samuel Hine
 - David Hooton
@@ -28,6 +29,7 @@
 - Neel Sachania
 - Niraj Shah
 - Benjamin Solly
+- Maria Starovoitova
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
@@ -35,8 +37,6 @@
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Naixuan Wang
-- Zechi Gan
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
