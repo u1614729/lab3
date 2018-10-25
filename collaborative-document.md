@@ -6,6 +6,9 @@
 - Denis Akkavim
 - Danius Backis
 - Luying Bai
+- Mahir Choudhury
+- Timothy Coupe
+- Lewei He
 - Samuel Hine
 - David Hooton
 - Xingwei Huang
@@ -23,14 +26,15 @@
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
+- Benjamin Solly
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
+- Naixuan Wang
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Naixuan Wang
-- Timothy Coupe
+- (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
 
@@ -86,6 +90,17 @@ It also should be noted that the data for the very oldest respondents,the data f
 ### BENJAMIN S
 
     10 13 18
+    
+![](BenS-plot.svg)
+
+The above plot was created using data gathered in the 2017 American Time Use Survey. Participants were asked to fill out a survey about how much time they had spent during the previous day on 17 different pre-defined categories. In paticular we will be considering the 'travel' category. After splitting the given dataset by sex, we plotted daily time spent travelling against age.
+
+A clear trend is that older people (aged 60+) spend up to 50% less time travelling on average than younger people. This is true for both male and females and could potentially be due to a higher proportion of people in retirement who would not have to commute to work/school/university on a daily basis.   
+
+Interestingly, between the ages of 25 and 70, men spend approximately 5 minutes more travelling per day on average that women. This could be influenced from women taking additional time off work during and shortly after pregnancy and therefore reducing the time they spend commuting on average. The age at which men spent the most time travelling was 41, and for women was 43. 
+
+One thing to consider is the large amount of variation at both the young and old extremes of the data due to a reduced sample size in these areas. Conclusions drawn in these ranges may therefore be less reliable.
+
     
 ### CHRISTOPHER
 
@@ -223,6 +238,13 @@ The graph shows that the average time per month participants spent on housework 
 ### LEWEI
 
     01 06 08
+
+![Lewei's graph of education vs month and sex]LeweiH-plot.svg)
+
+This plot shows how participation in education in the USA is different at different months between male and female. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The above graph shows the percentage of respondents, between the two sex, who reported that they had spent any time at all in education on the day in question for each month.
+
+The graph shows how such participation varies on a monthly basis, that fewer people engage in education over summer and winter vacations (in June, July, August, and December). Also, in distinguishment of male and female, female engage more than male during "Autumn term" and male engage more for the rest of the year. It should be noted that the respondents displayed this plot is only a small proportion of the whole set of respondents as the first quantile is at age 35 while this plot only uses data for age under 30 as generally, they engage more in education.
+
     
 ### LUYING
 
@@ -258,10 +280,30 @@ It should be noted that the data for seniors (over 80) is less reliable, due to 
 ### MAHIR
 
     04 06 16
+![Mahir's plot on time spent on telephone calls](MahirC-plot.svg)
+
+This graph shows how the time spent on telephone calls varies with age in the USA, using data from the '2017 American Time-Use survey', in which Survey Respondents were asked how much time had they spent across 17 particular activities during the particular day in which they were interviewed.  The line graphs display the expected value of time spent on telephone calls given the age in question. The shaded areas represent the 95% confidence interval for time spent on telephone calls given the age. The data has been split into gender categories and plotted accordingly.
+
+From the graph, it is clear that regardless of age that females on average spend a larger amount of time on telephone calls than males. Between the ages 15-40, we can see that the curves follow a relatively similar trend with the Female curve hovering above the male curve. Their confidence intervals largely overlapping whilst both steadily declining as the age gets closer to 40. Particularly, we can see around the age of 32 that the time is within a minute of each other- leading one to question whether this slight difference is simply variance in the data.  
+
+However, as we go beyond 40 we can observe a much steeper increase in these times for Females than the males. The times for Males pratically remains unchanged between 40-60 staying around the 4 minute mark, whilst by this stage for females, it has shot up to 10 minutes with the confidence intervals far apart. One might question why this may be the case - perhaps there are certain lifestyle changes to females ,which do not apply to males, which occur around the age of 40. An alternative could be changing times in the younger generation which could follow a pattern similar to the men as time progresses - who knows.
+
+From here there's a continued increase for both genders up to 85, where the data stops. It is important to note that there's larger confidence intervals for both genders most likely due to the fact that there's no data between ages 80-85. No confidence interval overlapping suggests this isn't a problem .
     
 ### MARIIA
 
     02 06 11
+
+![](Mariia-plot.svg)
+    
+The plot above shows how the time spent on household activities (e.g. laundry, cleaning, food preparation, etc) changes as the number of children in the household increases. The data used for constructing the plot is from the 2017 American Time Use Survey (ATUS), conducted by the Bureau of Labour Statistics. During the survey 10,223 people were interviewed on how much time they spent on certain activities (such as work and work-related activities, personal care, household activities, consumer purchases, volunteering, etc.) on the day before the interview.
+
+The graph above has the reported number of children under 18 in the household on the x-axis and the mean time spent on household activities per day (in minutes) on the y-axis. The respondents were split into two categories by sex (in colour).
+
+We observe that the mean time spent on household related activities (combined for both women and men) goes up as the number of children in the household increases. However, it is curious that for women this increase seems to be much more pronounced (going linearly from 140 minutes in the household with no kids to 212 in the households with 7 kids) than for men. 
+
+It should be noted that 2 datapoints were excluded from the plot (two respondents with 8 and 11 children respectively) as 1 datapoint is not enough to derive any conclusion about the whole group. Also note that the presented data for the households with the most children (more than 5) is less reliable due to the small number of observations (11 respondents with 6 children and 6 with 7 children). 
+
     
 ### MAXIM
 
@@ -442,6 +484,11 @@ The above graph is based on the data drawn from 2017 American Time Use Survey. I
 ### ZECHI
 
     01 04 07
+    
+![Zechi's graph of consumer purchases and 'shopping lovers' ](ZechiGan.png)
+
+This graph illustrates the number of hours spent on consumer purchases for every survey respondent from the age of 15 to 85. At first glance the points are separated by two colours, with the purple ones denoting respondents who spent a substantial amount of time doing shopping for the purposes outside of groceries, food or gas, who can be interpreted as the term 'shopping lovers'. By 'substantial' here it is defined by the mean time spent in this type of shopping activity(for people who spend any time doing this at all), averaging around 65 hours a month. The line intersecting y = 65 makes a distinctive separation between the top purple and the bottom blue regions, suggesting the fact that people who spend any substantial amount of time in making consumer purchases also spend a substantial amount of time in shopping for non-absolute necessities. This coincides with the modern habits of people shopping for leisure purposes and the popularity of shopping malls/centres. 
+    
     
 ### ZILIN
 
