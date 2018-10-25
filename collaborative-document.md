@@ -7,7 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
-- (next name to be added here)
+- Maxim Bolshakov
 
 (add your name to the above list when you have contributed your file)
 
@@ -113,8 +113,18 @@ The graph shows how such participation increases from less than 10% of 20-year-o
     02 06 11
     
 ### MAXIM
-
+   
     12 13 16
+
+![Maxim's graph of religious participation vs age](MaximB-plot.svg)
+
+This plot shows how the attendance rates of 3 types of events differ at different ages in the US population.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. 
+
+The above graph shows the percentage of respondents, at different ages, who reported that they had spent any time at all on attending sports events, social events and arts & entertainment events on the day in question.
+
+The graph shows a general downward trend for the social and sports events attendance rates. The arts and entertainment events attendance rate is constant around 3%. For arts & entertainment events, the decrease is from approximately 4.5% for the youngest to 3%  for the oldest, and the rate for the sports events falls from 5.5% to below 1 %.
+
+On average, arts and entertainment events have the highest rate of attendance, sports events have the lowest and social events are in between. However, the rate of sports events attendance is the highest for the youngest, but it quickly drops.
     
 ### MICHAEL
 
