@@ -19,6 +19,7 @@
 - Maciej Kopanski
 - Minwoo Kwon (Simon)
 - Jia Le Lian
+- Xi Lin
 - Richard Mason
 - Michael McHale
 - Reece Mears
@@ -37,7 +38,6 @@
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Xi Lin
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
