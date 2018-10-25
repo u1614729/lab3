@@ -4,6 +4,7 @@
 
 - David Firth
 - Denis Akkavim
+- Ben Atkinson
 - Danius Backis
 - Luying Bai
 - Maxim Bolshakov
@@ -19,6 +20,7 @@
 - Maciej Kopanski
 - Minwoo Kwon (Simon)
 - Jia Le Lian
+- Xi Lin
 - Richard Mason
 - Michael McHale
 - Reece Mears
@@ -37,7 +39,7 @@
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Ben Atkinson
+- Fan Zhou
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -189,6 +191,14 @@ It is also worth noting that there is limited data on participants under the age
 ### FAN
 
     06 11 16
+    
+![Fan's graph of religious participation vs age](Fan-plot.svg)     
+    
+The diagram shows the total time people spent on calling each day in US, based on data from the 2017 American Time Use Survey. 
+
+The general trend for both male and female is that the time has an over 50% decreasing from the initial level (8-11 min) to the bottom (4-5 min) until they becoming around 40 years old, which may be because of the stress from studying and working. Then there is an upward trend till the end of the model since their working pressure is probably less than they used to have, so they can have more time to communicate with their friends. 
+
+But if we view the men and women separately, we can notice that females always make more phone call than males, especially after 40, which is consistent with the impression in our mind. And finally the time level will reach the peak point of the diagram, which is over 13 minutes. Besides that, we can notice that the time men spent on calling is quite stable after 40 years old, the time level floats around 4 minutes.    
     
 ### HARRISON
 
@@ -485,7 +495,15 @@ After the age of 60 both the times for males and females increase steadily until
 ### XI
 
     03 05 06
-    
+  
+![Xi Lin's graphs of Time Spending on Education throughout the year at different age levels](SarahLin05-plot.png)
+  
+The graph below has used the data from 2017 American time use survey, which presents the time spending on education throughout the year at different age levels.  
+
+It is quite obvious to notice that people in age 15, spend the maximum amount of time on education compared to the other populations. In addition, the time consumption indicates an incredible decreasing trend from their early age till their nearly 40's and becomes steady at around 0.2 hours per day. Moreover, when people reach their 80's, they bearly spend time on education.  
+
+There is a dramatic fluctuation of time spending on education throughout the year in young age groups. It's interesting to notices that probably is because of the changes in school term schedules, exam periods and also the holidays which leads to the difference of time spending on education as the majority of the people in their 20's are still in school or university studying. The difference of genders might also potentially suggest the different study pace and time contribution.
+  
 ### XINGWEI
 
     01 03 07
