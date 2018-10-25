@@ -25,6 +25,7 @@
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
+- Benjamin Solly
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
@@ -88,6 +89,17 @@ It also should be noted that the data for the very oldest respondents,the data f
 ### BENJAMIN S
 
     10 13 18
+    
+![](BenS-plot.svg)
+
+The above plot was created using data gathered in the 2017 American Time Use Survey. Participants were asked to fill out a survey about how much time they had spent during the previous day on 17 different pre-defined categories. In paticular we will be considering the 'travel' category. After splitting the given dataset by sex, we plotted daily time spent travelling against age.
+
+A clear trend is that older people (aged 60+) spend up to 50% less time travelling on average than younger people. This is true for both male and females and could potentially be due to a higher proportion of people in retirement who would not have to commute to work/school/university on a daily basis.   
+
+Interestingly, between the ages of 25 and 70, men spend approximately 5 minutes more travelling per day on average that women. This could be influenced from women taking additional time off work during and shortly after pregnancy and therefore reducing the time they spend commuting on average. The age at which men spent the most time travelling was 41, and for women was 43. 
+
+One thing to consider is the large amount of variation at both the young and old extremes of the data due to a reduced sample size in these areas. Conclusions drawn in these ranges may therefore be less reliable.
+
     
 ### CHRISTOPHER
 
