@@ -6,6 +6,11 @@
 - Denis Akkavim
 - Danius Backis
 - Luying Bai
+- Maxim Bolshakov
+- Mahir Choudhury
+- Timothy Coupe
+- Zechi Gan
+- Lewei He
 - Samuel Hine
 - David Hooton
 - Xingwei Huang
@@ -23,13 +28,15 @@
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
+- Benjamin Solly
+- Maria Starovoitova
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
+- Naixuan Wang
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
-- Maria Starovoitova
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -86,6 +93,17 @@ It also should be noted that the data for the very oldest respondents,the data f
 ### BENJAMIN S
 
     10 13 18
+    
+![](BenS-plot.svg)
+
+The above plot was created using data gathered in the 2017 American Time Use Survey. Participants were asked to fill out a survey about how much time they had spent during the previous day on 17 different pre-defined categories. In paticular we will be considering the 'travel' category. After splitting the given dataset by sex, we plotted daily time spent travelling against age.
+
+A clear trend is that older people (aged 60+) spend up to 50% less time travelling on average than younger people. This is true for both male and females and could potentially be due to a higher proportion of people in retirement who would not have to commute to work/school/university on a daily basis.   
+
+Interestingly, between the ages of 25 and 70, men spend approximately 5 minutes more travelling per day on average that women. This could be influenced from women taking additional time off work during and shortly after pregnancy and therefore reducing the time they spend commuting on average. The age at which men spent the most time travelling was 41, and for women was 43. 
+
+One thing to consider is the large amount of variation at both the young and old extremes of the data due to a reduced sample size in these areas. Conclusions drawn in these ranges may therefore be less reliable.
+
     
 ### CHRISTOPHER
 
@@ -212,10 +230,24 @@ It should be noted that there are more females who spent time on consumer purcha
 ### LANGLANG
 
     02 11 18
-    
+   
+![Langlang's graph of household activities vs age and sex](LANGLANG.png)
+
+The plot shows how participation in household activities in the USA is different at different ages and different gender. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day they were interviewed. The above graph shows the average time they spent on households activities per month at different age. 
+
+The graph shows that the average time per month participants spent on housework increased as they getting older and started decreasing since around 70 years old. We can also see that female spent more time on housework than male at every age. The difference between female and male increased around 20s and decreased slightly around their 50s.
+
+
 ### LEWEI
 
     01 06 08
+
+![Lewei's graph of education vs month and sex]LeweiH-plot.svg)
+
+This plot shows how participation in education in the USA is different at different months between male and female. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The above graph shows the percentage of respondents, between the two sex, who reported that they had spent any time at all in education on the day in question for each month.
+
+The graph shows how such participation varies on a monthly basis, that fewer people engage in education over summer and winter vacations (in June, July, August, and December). Also, in distinguishment of male and female, female engage more than male during "Autumn term" and male engage more for the rest of the year. It should be noted that the respondents displayed this plot is only a small proportion of the whole set of respondents as the first quantile is at age 35 while this plot only uses data for age under 30 as generally, they engage more in education.
+
     
 ### LUYING
 
@@ -251,6 +283,15 @@ It should be noted that the data for seniors (over 80) is less reliable, due to 
 ### MAHIR
 
     04 06 16
+![Mahir's plot on time spent on telephone calls](MahirC-plot.svg)
+
+This graph shows how the time spent on telephone calls varies with age in the USA, using data from the '2017 American Time-Use survey', in which Survey Respondents were asked how much time had they spent across 17 particular activities during the particular day in which they were interviewed.  The line graphs display the expected value of time spent on telephone calls given the age in question. The shaded areas represent the 95% confidence interval for time spent on telephone calls given the age. The data has been split into gender categories and plotted accordingly.
+
+From the graph, it is clear that regardless of age that females on average spend a larger amount of time on telephone calls than males. Between the ages 15-40, we can see that the curves follow a relatively similar trend with the Female curve hovering above the male curve. Their confidence intervals largely overlapping whilst both steadily declining as the age gets closer to 40. Particularly, we can see around the age of 32 that the time is within a minute of each other- leading one to question whether this slight difference is simply variance in the data.  
+
+However, as we go beyond 40 we can observe a much steeper increase in these times for Females than the males. The times for Males pratically remains unchanged between 40-60 staying around the 4 minute mark, whilst by this stage for females, it has shot up to 10 minutes with the confidence intervals far apart. One might question why this may be the case - perhaps there are certain lifestyle changes to females ,which do not apply to males, which occur around the age of 40. An alternative could be changing times in the younger generation which could follow a pattern similar to the men as time progresses - who knows.
+
+From here there's a continued increase for both genders up to 85, where the data stops. It is important to note that there's larger confidence intervals for both genders most likely due to the fact that there's no data between ages 80-85. No confidence interval overlapping suggests this isn't a problem .
     
 ### MARIIA
 
@@ -268,8 +309,18 @@ It should be noted that 2 datapoints were excluded from the plot (two respondent
 
     
 ### MAXIM
-
+   
     12 13 16
+
+![Maxim's graph of religious participation vs age](MaximB-plot.svg)
+
+This plot shows how the attendance rates of 3 types of events differ at different ages in the US population.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. 
+
+The above graph shows the percentage of respondents, at different ages, who reported that they had spent any time at all on attending sports events, social events and arts & entertainment events on the day in question.
+
+The graph shows a general downward trend for the social and sports events attendance rates. The arts and entertainment events attendance rate is constant around 3%. For arts & entertainment events, the decrease is from approximately 4.5% for the youngest to 3%  for the oldest, and the rate for the sports events falls from 5.5% to below 1 %.
+
+On average, arts and entertainment events have the highest rate of attendance, sports events have the lowest and social events are in between. However, the rate of sports events attendance is the highest for the youngest, but it quickly drops.
     
 ### MICHAEL
 
@@ -299,6 +350,10 @@ The likelihood of either males and females spending anytime at all caring or hel
 ### NAIXUAN
 
     08 14 16
+    
+![Naixuan's graph of telephone calls vs age seperated by sex](NaixuanW-plot.svg)
+
+The data is drawn from the “2017 American Time Use Survey” data set. Through the exploration of the data set, an interesting correlation between column “age”, “sex” and “telephone calls” has been found. The chart is plotted as the percentage of time spent on “Telephone calls” against age of the respondents. The lines are defined by “sex” with males’ represented in blue and females’ in red. The percentage of females spending time on making phone calls is higher than the percentage of males through all ages. With an increase in age, females tend to spend more time on making phone calls as the red line rises dramatically from 13% to 25% after the age of 40 representing higher proportion of female population. The percentage of males does not fluctuate much through age.
     
 ### NATHAN
 
@@ -408,6 +463,12 @@ It is important to note that the standard deviations of both under-20s and over-
 ### TIMOTHY
 
     06 09 11
+ ![Tim's graph of the link between age,sex and time spent eating and drinking](TimC-plot.svg)   
+The data used to generate the plot has come  from the American Time Use Survey. It was created  by the Bureau  of Statistics. The survey measures the amount of time people spend performing 17 different common activities. These include things such education, religious activities, eating and drinking and many others.
+
+The plot below shows on average how many minutes per day Males and Females spent eating and drinking. Females take more time to start with but take a sharp decline until the age of around 25. Meanwhile the males times rises sharply and becomes bigger than the females at around age 20. After the age of 25 the males and females times change is similar patterns with the males constantly spending more time then females. These similar patterns are such because both groups seem to plateau for a long period with slights ups and downs. For the women the eating and drinking times are with 62.5-65 minutes for approximately ages 35-60. For the males from the ages 40-60 there is no significant change with the average time being within 67.5-70 minutes for this whole period. 
+
+After the age of 60 both the times for males and females increase steadily until the 80. Males are take approximately 5 minutes longer then females to eat and drink for the whole period from 60-80.
     
 ### XI
 
@@ -436,6 +497,11 @@ The above graph is based on the data drawn from 2017 American Time Use Survey. I
 ### ZECHI
 
     01 04 07
+    
+![Zechi's graph of consumer purchases and 'shopping lovers' ](ZechiGan.png)
+
+This graph illustrates the number of hours spent on consumer purchases for every survey respondent from the age of 15 to 85. At first glance the points are separated by two colours, with the purple ones denoting respondents who spent a substantial amount of time doing shopping for the purposes outside of groceries, food or gas, who can be interpreted as the term 'shopping lovers'. By 'substantial' here it is defined by the mean time spent in this type of shopping activity(for people who spend any time doing this at all), averaging around 65 hours a month. The line intersecting y = 65 makes a distinctive separation between the top purple and the bottom blue regions, suggesting the fact that people who spend any substantial amount of time in making consumer purchases also spend a substantial amount of time in shopping for non-absolute necessities. This coincides with the modern habits of people shopping for leisure purposes and the popularity of shopping malls/centres. 
+    
     
 ### ZILIN
 
