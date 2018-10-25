@@ -4,8 +4,14 @@
 
 - David Firth
 - Denis Akkavim
+- Ben Atkinson
 - Danius Backis
 - Luying Bai
+- Maxim Bolshakov
+- Mahir Choudhury
+- Timothy Coupe
+- Zechi Gan
+- Lewei He
 - Samuel Hine
 - David Hooton
 - Xingwei Huang
@@ -14,6 +20,7 @@
 - Maciej Kopanski
 - Minwoo Kwon (Simon)
 - Jia Le Lian
+- Xi Lin
 - Richard Mason
 - Michael McHale
 - Reece Mears
@@ -23,9 +30,13 @@
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
+- Benjamin Solly
+- Sandeep Soorjonowa
+- Maria Starovoitova
 - Jan Terlikowski
 - Daniel Timmers
 - James Walsh
+- Naixuan Wang
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
@@ -34,6 +45,9 @@
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
+=======
+- Fan Zhou
+- Zilin Zhang
 
 ## The contributions
 
@@ -84,9 +98,31 @@ It also should be noted that the data for the very oldest respondents,the data f
 
     01 05 08
      
+![](BenA-plot.svg)
+
+The plot above demonstrates how different age groups manage the amount of time they spend working with respect to the amount of time spent on personal care, using data from the 2017 American Time Use Survey. Participants in the survey were asked how they had spent their previous day, dividing the time spent into 17 set categories, as well as gathering general information about the person (age, sex, etc.). The above plot focusses on 'Personal Care Activities' and 'Work Related Activities' in specific, which encode the amount of time participants spent sleeping and grooming, or working respectively.
+
+The plot shows that, across all age groups, the amount of time spent on personal care decreases more than linearly as the amount of time spent working increases. The majority of age groups follow a similar trend, with the largest deviations comeingfrom the extrememum of the age ranges; the oldest and the youngest.
+
+The oldest category, those aged 80-90, shows that those still working more than 4 hours (240 minutes) typically spent much less time on personal care than their younger counterparts: up to 40%. However, this may not be representative due to the small number of participants in this category. This may be indicative of their lifestyle, as those who continue to work past retirement may be more restless. 
+
+However, those aged 10-20, show a different trend altogether. For those working 8+ hours (480+ minutes) in this group, there was a strong tendency to spend more time on personal activities than their older counterparts. There are numerous potential reasons for this trend, such as a lack of workplace stamina and experience, or an increased propensity for manual labour in this age category. Howeer, more analysis would be required for any concrete conclusions.
+
+
 ### BENJAMIN S
 
     10 13 18
+    
+![](BenS-plot.svg)
+
+The above plot was created using data gathered in the 2017 American Time Use Survey. Participants were asked to fill out a survey about how much time they had spent during the previous day on 17 different pre-defined categories. In paticular we will be considering the 'travel' category. After splitting the given dataset by sex, we plotted daily time spent travelling against age.
+
+A clear trend is that older people (aged 60+) spend up to 50% less time travelling on average than younger people. This is true for both male and females and could potentially be due to a higher proportion of people in retirement who would not have to commute to work/school/university on a daily basis.   
+
+Interestingly, between the ages of 25 and 70, men spend approximately 5 minutes more travelling per day on average that women. This could be influenced from women taking additional time off work during and shortly after pregnancy and therefore reducing the time they spend commuting on average. The age at which men spent the most time travelling was 41, and for women was 43. 
+
+One thing to consider is the large amount of variation at both the young and old extremes of the data due to a reduced sample size in these areas. Conclusions drawn in these ranges may therefore be less reliable.
+
     
 ### CHRISTOPHER
 
@@ -161,6 +197,14 @@ It is also worth noting that there is limited data on participants under the age
 
     06 11 16
     
+![Fan's graph of religious participation vs age](Fan-plot.svg)     
+    
+The diagram shows the total time people spent on calling each day in US, based on data from the 2017 American Time Use Survey. 
+
+The general trend for both male and female is that the time has an over 50% decreasing from the initial level (8-11 min) to the bottom (4-5 min) until they becoming around 40 years old, which may be because of the stress from studying and working. Then there is an upward trend till the end of the model since their working pressure is probably less than they used to have, so they can have more time to communicate with their friends. 
+
+But if we view the men and women separately, we can notice that females always make more phone call than males, especially after 40, which is consistent with the impression in our mind. And finally the time level will reach the peak point of the diagram, which is over 13 minutes. Besides that, we can notice that the time men spent on calling is quite stable after 40 years old, the time level floats around 4 minutes.    
+    
 ### HARRISON
 
     05 15 16
@@ -224,6 +268,13 @@ The graph shows that the average time per month participants spent on housework 
 ### LEWEI
 
     01 06 08
+
+![Lewei's graph of education vs month and sex](LeweiH-plot.svg)
+
+This plot shows how participation in education in the USA is different at different months between male and female. The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. The above graph shows the percentage of respondents, between the two sex, who reported that they had spent any time at all in education on the day in question for each month.
+
+The graph shows how such participation varies on a monthly basis, that fewer people engage in education over summer and winter vacations (in June, July, August, and December). Also, in distinguishment of male and female, female engage more than male during "Autumn term" and male engage more for the rest of the year. It should be noted that the respondents displayed this plot is only a small proportion of the whole set of respondents as the first quantile is at age 35 while this plot only uses data for age under 30 as generally, they engage more in education.
+
     
 ### LUYING
 
@@ -259,14 +310,44 @@ It should be noted that the data for seniors (over 80) is less reliable, due to 
 ### MAHIR
 
     04 06 16
+![Mahir's plot on time spent on telephone calls](MahirC-plot.svg)
+
+This graph shows how the time spent on telephone calls varies with age in the USA, using data from the '2017 American Time-Use survey', in which Survey Respondents were asked how much time had they spent across 17 particular activities during the particular day in which they were interviewed.  The line graphs display the expected value of time spent on telephone calls given the age in question. The shaded areas represent the 95% confidence interval for time spent on telephone calls given the age. The data has been split into gender categories and plotted accordingly.
+
+From the graph, it is clear that regardless of age that females on average spend a larger amount of time on telephone calls than males. Between the ages 15-40, we can see that the curves follow a relatively similar trend with the Female curve hovering above the male curve. Their confidence intervals largely overlapping whilst both steadily declining as the age gets closer to 40. Particularly, we can see around the age of 32 that the time is within a minute of each other- leading one to question whether this slight difference is simply variance in the data.  
+
+However, as we go beyond 40 we can observe a much steeper increase in these times for Females than the males. The times for Males pratically remains unchanged between 40-60 staying around the 4 minute mark, whilst by this stage for females, it has shot up to 10 minutes with the confidence intervals far apart. One might question why this may be the case - perhaps there are certain lifestyle changes to females ,which do not apply to males, which occur around the age of 40. An alternative could be changing times in the younger generation which could follow a pattern similar to the men as time progresses - who knows.
+
+From here there's a continued increase for both genders up to 85, where the data stops. It is important to note that there's larger confidence intervals for both genders most likely due to the fact that there's no data between ages 80-85. No confidence interval overlapping suggests this isn't a problem .
     
 ### MARIIA
 
     02 06 11
+
+![](Mariia-plot.svg)
+    
+The plot above shows how the time spent on household activities (e.g. laundry, cleaning, food preparation, etc) changes as the number of children in the household increases. The data used for constructing the plot is from the 2017 American Time Use Survey (ATUS), conducted by the Bureau of Labour Statistics. During the survey 10,223 people were interviewed on how much time they spent on certain activities (such as work and work-related activities, personal care, household activities, consumer purchases, volunteering, etc.) on the day before the interview.
+
+The graph above has the reported number of children under 18 in the household on the x-axis and the mean time spent on household activities per day (in minutes) on the y-axis. The respondents were split into two categories by sex (in colour).
+
+We observe that the mean time spent on household related activities (combined for both women and men) goes up as the number of children in the household increases. However, it is curious that for women this increase seems to be much more pronounced (going linearly from 140 minutes in the household with no kids to 212 in the households with 7 kids) than for men. 
+
+It should be noted that 2 datapoints were excluded from the plot (two respondents with 8 and 11 children respectively) as 1 datapoint is not enough to derive any conclusion about the whole group. Also note that the presented data for the households with the most children (more than 5) is less reliable due to the small number of observations (11 respondents with 6 children and 6 with 7 children). 
+
     
 ### MAXIM
-
+   
     12 13 16
+
+![Maxim's graph of religious participation vs age](MaximB-plot.svg)
+
+This plot shows how the attendance rates of 3 types of events differ at different ages in the US population.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed. 
+
+The above graph shows the percentage of respondents, at different ages, who reported that they had spent any time at all on attending sports events, social events and arts & entertainment events on the day in question.
+
+The graph shows a general downward trend for the social and sports events attendance rates. The arts and entertainment events attendance rate is constant around 3%. For arts & entertainment events, the decrease is from approximately 4.5% for the youngest to 3%  for the oldest, and the rate for the sports events falls from 5.5% to below 1 %.
+
+On average, arts and entertainment events have the highest rate of attendance, sports events have the lowest and social events are in between. However, the rate of sports events attendance is the highest for the youngest, but it quickly drops.
     
 ### MICHAEL
 
@@ -391,6 +472,12 @@ For females however, the proportion does not change much over time, perhaps due 
 ### SANDEEP
 
     02 04 15
+  ![Sandeep's graph showing volunteering activities across ages](SandeepS-plot.png)   
+    These plot shows on how, for each gender, the amount time of volunteering activities done by participants in the USA changes with age. The data from the graph is taken from the 2017 American Time Use Survey where participants were questioned on how long they spent doing different activities during the day before the interview. 
+
+   The graph above shows the relationship between the amount of time the participants spent doing volunteering activities measured in minutes to their age for each gender. The graph for female shows a decrease in time spent on volunteering activities from the early 20s to 30s where it starts to grow at a steady rate till early 70s where it peaks and then follows a downward trend. The graph for male starts with a downward trend till 30s where it picks back till mid 40s and then drops down again. However, it then increases drastically after early 60s and peaks around mid 70s where it then follows a steep downward trajectory. The similarity on both of these graphs are that they both show a downward trajectory after early 20s which may have been the results of the participants being in colleges thus having less time to do volunteering activities. Furthermore, both graphs also show an increase in volunteering activities after early 60s which may have been a result of the participants having more time on their hands due to retirement, which is about 66 years in the USA. 
+
+   On the other hand, the data collected for the ages between 0-20 and 80 and over maybe be unreliable due to the small amount of data collected for those age groups. 
     
 ### SOPHIE
 
@@ -409,11 +496,25 @@ It is important to note that the standard deviations of both under-20s and over-
 ### TIMOTHY
 
     06 09 11
+ ![Tim's graph of the link between age,sex and time spent eating and drinking](TimC-plot.svg)   
+The data used to generate the plot has come  from the American Time Use Survey. It was created  by the Bureau  of Statistics. The survey measures the amount of time people spend performing 17 different common activities. These include things such education, religious activities, eating and drinking and many others.
+
+The plot below shows on average how many minutes per day Males and Females spent eating and drinking. Females take more time to start with but take a sharp decline until the age of around 25. Meanwhile the males times rises sharply and becomes bigger than the females at around age 20. After the age of 25 the males and females times change is similar patterns with the males constantly spending more time then females. These similar patterns are such because both groups seem to plateau for a long period with slights ups and downs. For the women the eating and drinking times are with 62.5-65 minutes for approximately ages 35-60. For the males from the ages 40-60 there is no significant change with the average time being within 67.5-70 minutes for this whole period. 
+
+After the age of 60 both the times for males and females increase steadily until the 80. Males are take approximately 5 minutes longer then females to eat and drink for the whole period from 60-80.
     
 ### XI
 
     03 05 06
-    
+  
+![Xi Lin's graphs of Time Spending on Education throughout the year at different age levels](SarahLin05-plot.png)
+  
+The graph below has used the data from 2017 American time use survey, which presents the time spending on education throughout the year at different age levels.  
+
+It is quite obvious to notice that people in age 15, spend the maximum amount of time on education compared to the other populations. In addition, the time consumption indicates an incredible decreasing trend from their early age till their nearly 40's and becomes steady at around 0.2 hours per day. Moreover, when people reach their 80's, they bearly spend time on education.  
+
+There is a dramatic fluctuation of time spending on education throughout the year in young age groups. It's interesting to notices that probably is because of the changes in school term schedules, exam periods and also the holidays which leads to the difference of time spending on education as the majority of the people in their 20's are still in school or university studying. The difference of genders might also potentially suggest the different study pace and time contribution.
+  
 ### XINGWEI
 
     01 03 07
@@ -437,6 +538,11 @@ The above graph is based on the data drawn from 2017 American Time Use Survey. I
 ### ZECHI
 
     01 04 07
+    
+![Zechi's graph of consumer purchases and 'shopping lovers' ](ZechiGan.png)
+
+This graph illustrates the number of hours spent on consumer purchases for every survey respondent from the age of 15 to 85. At first glance the points are separated by two colours, with the purple ones denoting respondents who spent a substantial amount of time doing shopping for the purposes outside of groceries, food or gas, who can be interpreted as the term 'shopping lovers'. By 'substantial' here it is defined by the mean time spent in this type of shopping activity(for people who spend any time doing this at all), averaging around 65 hours a month. The line intersecting y = 65 makes a distinctive separation between the top purple and the bottom blue regions, suggesting the fact that people who spend any substantial amount of time in making consumer purchases also spend a substantial amount of time in shopping for non-absolute necessities. This coincides with the modern habits of people shopping for leisure purposes and the popularity of shopping malls/centres. 
+    
     
 ### ZILIN
 
