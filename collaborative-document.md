@@ -37,6 +37,7 @@
 - Harrison Wilde
 - Yiwen Xu
 - Baiyun Yuan
+- Ben Atkinson
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -90,6 +91,17 @@ It also should be noted that the data for the very oldest respondents,the data f
 
     01 05 08
      
+![](BenA-plot.svg)
+
+The plot above demonstrates how different age groups manage the amount of time they spend working with respect to the amount of time spent on personal care, using data from the 2017 American Time Use Survey. Participants in the survey were asked how they had spent their previous day, dividing the time spent into 17 set categories, as well as gathering general information about the person (age, sex, etc.). The above plot focusses on 'Personal Care Activities' and 'Work Related Activities' in specific, which encode the amount of time participants spent sleeping and grooming, or working respectively.
+
+The plot shows that, across all age groups, the amount of time spent on personal care decreases more than linearly as the amount of time spent working increases. The majority of age groups follow a similar trend, with the largest deviations comeingfrom the extrememum of the age ranges; the oldest and the youngest.
+
+The oldest category, those aged 80-90, shows that those still working more than 4 hours (240 minutes) typically spent much less time on personal care than their younger counterparts: up to 40%. However, this may not be representative due to the small number of participants in this category. This may be indicative of their lifestyle, as those who continue to work past retirement may be more restless. 
+
+However, those aged 10-20, show a different trend altogether. For those working 8+ hours (480+ minutes) in this group, there was a strong tendency to spend more time on personal activities than their older counterparts. There are numerous potential reasons for this trend, such as a lack of workplace stamina and experience, or an increased propensity for manual labour in this age category. Howeer, more analysis would be required for any concrete conclusions.
+
+
 ### BENJAMIN S
 
     10 13 18
